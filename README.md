@@ -3,6 +3,11 @@
 * Email: davysjtu@gmail.com
 * Date: 04.27.21
 
+## How to build the project
+Under `./FractionalOperations` run:
+```
+ ./gradlew build
+```
 ## How to run command
 Under `./FractionalOperations` run:
 ```
